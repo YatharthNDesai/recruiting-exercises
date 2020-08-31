@@ -19,5 +19,8 @@
   "homepage": "https://github.com/YatharthNDesai/recruiting-exercises#readme",
   "devDependencies": {
     "jest": "^26.4.2"
+  },
+  "dependencies": {
+    "@jest/globals": "^26.4.2"
   }
 }
