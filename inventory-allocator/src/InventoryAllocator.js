@@ -50,5 +50,5 @@ function allocator(inventoryList, requiredItems) {
         }
         resultList = [...resultList, {[name]: inventory}]
     }
-    console.log(resultList)
+    return resultList
 }
