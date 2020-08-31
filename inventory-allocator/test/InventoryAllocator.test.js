@@ -1,5 +1,5 @@
 
-const allocator = require('./src/InventoryAllocator')
+const allocator = require('../src/InventoryAllocator')
 
 // The first case in the example
 test('Demo test 1', () => {
